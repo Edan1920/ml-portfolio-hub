@@ -1,0 +1,24 @@
+artifact_path: /Users/andresgutierrez/ml-portfolio-hub/mlruns/2/models/m-b2283ddadc9e4053af71de531127d24d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.2
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.1
+    skops_trusted_types:
+    - sklearn.tree._tree.Tree
+mlflow_version: 3.17.2
+model_id: m-b2283ddadc9e4053af71de531127d24d
+model_size_bytes: 20530971
+model_uuid: m-b2283ddadc9e4053af71de531127d24d
+prompts: null
+run_id: 3bbf40f160c343b085e7432224f8e6fc
+utc_time_created: '2026-11-03 03:43:03.129806'

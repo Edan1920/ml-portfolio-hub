@@ -1,0 +1,1501 @@
+company_id,segment,industry,monthly_transaction_volume,avg_ticket_size,days_active,primary_product_used,next_best_offer
+COMP_0001,Pequeña,Tecnología,5975.84,31987.42,1600,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0002,Corporativa,Servicios Financieros,11640.49,7287.97,1589,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0003,Mediana,Logística,31691.3,29346.13,569,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0004,Mediana,Logística,38948.86,34977.68,1537,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0005,Pequeña,Tecnología,30900.04,35329.96,45,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0006,Pequeña,Retail,42850.98,37920.13,1624,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0007,Pequeña,Servicios Financieros,50209.67,43770.11,272,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0008,Grande,Logística,5498.67,25497.99,1260,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0009,Mediana,Tecnología,36189.93,36782.21,941,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0010,Mediana,Logística,170521.11,31339.46,1324,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0011,Pequeña,Servicios Financieros,41597.76,10145.36,790,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0012,Corporativa,Servicios Financieros,61589.16,2258.79,734,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0013,Grande,Manufactura,23688.43,14942.53,1783,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0014,Pequeña,Tecnología,79359.11,22708.65,144,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0015,Pequeña,Servicios Financieros,79122.97,31238.19,1633,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0016,Pequeña,Manufactura,41833.65,42648.01,1352,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0017,Pequeña,Manufactura,191513.88,10616.04,1536,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0018,Mediana,Logística,11708.02,7151.94,426,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0019,Pequeña,Logística,5854.65,48210.52,423,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0020,Pequeña,Manufactura,78518.2,6294.18,1128,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0021,Mediana,Logística,87293.57,24446.06,1007,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0022,Pequeña,Servicios Financieros,11403.44,29692.62,1535,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0023,Pequeña,Retail,20433.9,27527.35,1156,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0024,Pequeña,Servicios Financieros,5885.41,5215.58,326,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0025,Mediana,Manufactura,22358.06,3794.32,1031,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0026,Grande,Manufactura,79171.52,6168.69,207,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0027,Pequeña,Servicios Financieros,41486.46,29693.8,1268,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0028,Mediana,Logística,26392.87,27672.9,996,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0029,Mediana,Logística,28240.0,12453.3,344,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0030,Pequeña,Manufactura,5067.73,32250.93,1092,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0031,Mediana,Tecnología,22819.5,41183.31,288,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0032,Pequeña,Logística,56987.75,3037.37,1769,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0033,Pequeña,Servicios Financieros,187858.27,25408.37,36,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0034,Corporativa,Logística,98885.75,34776.21,78,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0035,Corporativa,Servicios Financieros,6193.89,13363.28,1591,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0036,Grande,Manufactura,119414.69,16080.77,190,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0037,Pequeña,Logística,81438.63,31068.26,205,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0038,Pequeña,Servicios Financieros,80791.94,44998.83,1644,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0039,Mediana,Manufactura,35624.07,40686.3,1055,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0040,Pequeña,Tecnología,30375.33,29573.38,1030,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0041,Pequeña,Servicios Financieros,23042.45,36780.86,484,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0042,Mediana,Tecnología,8397.61,18876.3,1697,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0043,Pequeña,Tecnología,17953.78,32407.31,305,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0044,Corporativa,Retail,19158.19,23842.9,527,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0045,Pequeña,Logística,38089.89,10306.87,1682,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0046,Mediana,Servicios Financieros,73806.19,35385.18,705,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0047,Pequeña,Tecnología,37104.63,28266.77,1081,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0048,Mediana,Retail,7979.24,18572.46,1386,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0049,Mediana,Manufactura,163254.67,45655.62,1054,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0050,Pequeña,Servicios Financieros,147993.96,2025.77,1241,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0051,Corporativa,Tecnología,81899.96,16472.88,85,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0052,Grande,Logística,242382.22,3787.19,576,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0053,Corporativa,Retail,44316.04,38559.84,1165,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0054,Grande,Tecnología,169529.8,35403.27,1363,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0055,Mediana,Logística,8930.79,17236.26,65,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0056,Corporativa,Tecnología,27760.14,34107.48,468,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0057,Pequeña,Servicios Financieros,17769.22,20400.92,1782,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0058,Pequeña,Servicios Financieros,15897.42,38056.44,1645,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0059,Pequeña,Servicios Financieros,12587.85,23255.0,624,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0060,Pequeña,Retail,53697.8,21201.71,1630,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0061,Pequeña,Servicios Financieros,81007.71,46801.77,1378,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0062,Pequeña,Logística,48172.87,13293.08,1693,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0063,Grande,Tecnología,12947.6,6901.92,336,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0064,Pequeña,Manufactura,88333.17,29642.61,1587,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0065,Pequeña,Logística,55523.85,48496.77,1781,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0066,Mediana,Logística,29564.69,19514.12,648,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0067,Pequeña,Servicios Financieros,61062.88,4039.8,1162,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0068,Grande,Retail,20048.83,17625.96,1425,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0069,Pequeña,Tecnología,26170.68,25790.65,386,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0070,Corporativa,Retail,129739.27,8934.23,210,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0071,Grande,Tecnología,22160.06,33247.01,1409,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0072,Pequeña,Tecnología,36742.81,49889.72,1729,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0073,Pequeña,Retail,115427.94,23135.23,97,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0074,Grande,Logística,66502.38,18381.7,321,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0075,Mediana,Tecnología,8211.1,20634.5,721,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0076,Mediana,Retail,12967.55,6642.16,210,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0077,Grande,Tecnología,5393.62,44280.41,1519,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0078,Pequeña,Manufactura,54837.34,21326.46,463,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0079,Pequeña,Logística,34680.79,19976.45,1517,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0080,Pequeña,Servicios Financieros,12209.39,33324.82,1734,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0081,Grande,Tecnología,163425.92,22659.64,943,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0082,Mediana,Manufactura,42714.94,32763.44,1587,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0083,Pequeña,Servicios Financieros,18846.56,4010.87,95,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0084,Pequeña,Servicios Financieros,39717.75,40872.44,1074,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0085,Pequeña,Tecnología,61912.43,47084.69,1665,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0086,Pequeña,Retail,8965.11,32789.5,413,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0087,Mediana,Tecnología,21058.76,47773.73,1668,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0088,Mediana,Manufactura,87244.32,8420.18,1612,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0089,Grande,Servicios Financieros,35778.29,24393.39,68,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0090,Mediana,Tecnología,44546.51,30488.53,1338,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0091,Pequeña,Retail,33353.58,29505.1,851,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0092,Mediana,Tecnología,7244.64,20671.63,631,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0093,Grande,Logística,14061.09,17566.14,1650,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0094,Mediana,Retail,34488.18,7214.38,814,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0095,Grande,Manufactura,16734.59,20195.38,1389,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0096,Mediana,Servicios Financieros,7563.56,8970.38,1241,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0097,Mediana,Tecnología,97782.8,36983.92,700,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0098,Pequeña,Retail,203675.06,11232.72,1296,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0099,Pequeña,Logística,83786.35,3869.7,1126,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0100,Pequeña,Retail,101133.83,28065.94,508,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0101,Pequeña,Logística,18852.09,30166.26,590,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0102,Mediana,Manufactura,166733.72,43723.74,130,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0103,Pequeña,Servicios Financieros,15965.4,29272.1,543,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0104,Mediana,Manufactura,156237.27,17928.56,205,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0105,Corporativa,Tecnología,268140.7,40347.58,267,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0106,Pequeña,Retail,67191.64,27473.67,939,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0107,Pequeña,Logística,203545.49,4884.73,1112,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0108,Grande,Logística,47145.02,28726.68,1152,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0109,Pequeña,Retail,20024.3,45492.91,900,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0110,Pequeña,Retail,33723.42,20419.32,524,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0111,Pequeña,Tecnología,50016.06,15519.96,976,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0112,Pequeña,Manufactura,8794.49,8030.0,1567,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0113,Corporativa,Logística,53688.48,8420.83,784,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0114,Grande,Tecnología,203636.01,22205.8,1350,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0115,Mediana,Manufactura,15542.7,30188.31,240,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0116,Grande,Tecnología,83654.12,4950.15,1176,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0117,Grande,Logística,124243.36,47038.86,1282,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0118,Pequeña,Retail,148854.45,38001.55,1647,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0119,Grande,Retail,166113.58,29744.57,1709,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0120,Mediana,Manufactura,41850.74,41593.49,1441,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0121,Grande,Servicios Financieros,194286.94,4929.15,169,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0122,Grande,Manufactura,75798.56,24365.11,570,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0123,Pequeña,Servicios Financieros,13817.26,31874.56,1444,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0124,Pequeña,Tecnología,37399.14,41603.99,299,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0125,Pequeña,Tecnología,68351.16,39390.01,1065,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0126,Pequeña,Logística,19207.1,14576.39,1442,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0127,Grande,Servicios Financieros,56168.08,47103.13,1390,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0128,Grande,Logística,59920.69,7092.95,535,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0129,Pequeña,Retail,13878.63,43881.55,1159,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0130,Mediana,Servicios Financieros,46630.27,48576.07,61,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0131,Pequeña,Manufactura,78838.73,9680.52,1127,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0132,Pequeña,Retail,39547.05,36381.24,1224,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0133,Pequeña,Retail,5608.85,2973.99,1122,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0134,Pequeña,Manufactura,5453.98,20865.72,842,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0135,Corporativa,Retail,27082.81,26297.88,391,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0136,Pequeña,Servicios Financieros,135315.81,29451.62,1702,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0137,Mediana,Logística,17982.39,46860.93,1486,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0138,Mediana,Retail,55305.81,33940.28,958,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0139,Pequeña,Servicios Financieros,17556.31,24582.62,129,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0140,Corporativa,Tecnología,24406.07,40674.08,1711,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0141,Corporativa,Servicios Financieros,99207.59,47576.11,38,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0142,Pequeña,Logística,70256.27,2081.24,1627,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0143,Mediana,Servicios Financieros,10013.08,49143.54,726,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0144,Pequeña,Manufactura,32992.22,5220.47,1082,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0145,Pequeña,Logística,6480.18,40904.95,1167,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0146,Pequeña,Tecnología,37781.99,14736.4,491,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0147,Mediana,Manufactura,59299.71,7476.8,950,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0148,Mediana,Servicios Financieros,11306.66,22552.93,1196,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0149,Pequeña,Logística,22046.05,32553.87,419,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0150,Pequeña,Tecnología,30361.32,19666.64,661,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0151,Corporativa,Manufactura,130994.18,3673.71,711,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0152,Pequeña,Tecnología,254947.8,30373.6,186,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0153,Pequeña,Servicios Financieros,7297.55,45217.76,364,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0154,Mediana,Tecnología,76566.24,19777.55,289,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0155,Corporativa,Retail,28238.79,11600.31,111,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0156,Pequeña,Manufactura,29916.71,22686.29,783,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0157,Mediana,Tecnología,75175.07,3369.77,1494,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0158,Grande,Servicios Financieros,130312.5,41203.89,1225,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0159,Pequeña,Servicios Financieros,155723.94,41490.7,1284,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0160,Mediana,Tecnología,48033.65,29812.02,749,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0161,Pequeña,Servicios Financieros,27089.95,18302.04,104,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0162,Mediana,Logística,82452.22,40189.38,1323,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0163,Mediana,Logística,19450.91,28179.66,655,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0164,Mediana,Logística,46514.14,41470.68,91,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0165,Pequeña,Retail,27203.42,31941.48,903,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0166,Grande,Tecnología,58447.49,39435.87,349,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0167,Pequeña,Retail,18748.09,30329.59,131,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0168,Pequeña,Servicios Financieros,15634.48,21292.91,1482,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0169,Pequeña,Retail,130197.8,47939.35,903,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0170,Mediana,Servicios Financieros,10368.33,27514.58,1775,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0171,Mediana,Servicios Financieros,40256.73,30649.39,983,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0172,Pequeña,Manufactura,17477.76,11803.89,284,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0173,Mediana,Logística,6985.4,31656.89,1585,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0174,Pequeña,Servicios Financieros,6834.18,29008.77,599,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0175,Mediana,Manufactura,14632.04,10057.08,141,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0176,Pequeña,Logística,105784.05,3919.77,1014,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0177,Mediana,Servicios Financieros,21597.64,30613.61,1366,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0178,Pequeña,Servicios Financieros,155247.91,38420.92,1027,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0179,Corporativa,Retail,48568.53,26646.67,490,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0180,Pequeña,Retail,33689.53,12111.86,737,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0181,Pequeña,Logística,48385.61,33659.58,916,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0182,Pequeña,Servicios Financieros,41355.72,4925.18,1515,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0183,Corporativa,Tecnología,76101.52,22649.85,1145,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0184,Grande,Retail,21598.84,9004.97,1105,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0185,Pequeña,Logística,26774.34,10038.49,549,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0186,Mediana,Servicios Financieros,117260.31,10912.4,841,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0187,Grande,Servicios Financieros,151363.06,19948.65,1151,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0188,Mediana,Tecnología,116540.31,3506.36,265,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0189,Mediana,Logística,32188.79,20491.88,1427,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0190,Pequeña,Servicios Financieros,80789.52,26073.66,1634,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0191,Pequeña,Retail,37345.23,24681.42,956,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0192,Grande,Tecnología,39411.95,19756.42,586,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0193,Corporativa,Logística,16450.54,42118.18,678,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0194,Mediana,Tecnología,49717.94,8121.01,263,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0195,Pequeña,Retail,15298.09,25779.14,1085,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0196,Pequeña,Logística,25140.78,4040.03,1342,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0197,Mediana,Tecnología,101561.49,4486.63,1691,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0198,Grande,Manufactura,16601.38,29119.43,608,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0199,Grande,Retail,8690.85,28734.9,571,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0200,Grande,Retail,8575.21,44023.64,143,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0201,Mediana,Retail,146328.61,28335.81,233,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0202,Pequeña,Manufactura,40354.24,48029.76,1082,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0203,Pequeña,Manufactura,31331.84,3386.05,672,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0204,Grande,Servicios Financieros,88268.3,5802.38,503,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0205,Mediana,Tecnología,95341.4,3159.23,726,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0206,Pequeña,Servicios Financieros,25187.66,10078.57,282,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0207,Pequeña,Tecnología,64146.14,27522.24,934,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0208,Mediana,Manufactura,78728.49,32633.04,415,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0209,Pequeña,Manufactura,58159.94,3233.67,91,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0210,Pequeña,Servicios Financieros,13219.86,47352.57,544,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0211,Mediana,Logística,109326.56,42266.1,459,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0212,Mediana,Servicios Financieros,43728.12,15534.01,609,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0213,Mediana,Tecnología,21597.2,4782.19,1590,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0214,Pequeña,Servicios Financieros,32689.11,9324.47,1744,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0215,Mediana,Retail,6914.75,7220.28,1194,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0216,Pequeña,Tecnología,11840.66,7040.91,772,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0217,Pequeña,Tecnología,77524.95,26409.52,1353,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0218,Mediana,Logística,5000.58,13046.52,704,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0219,Mediana,Manufactura,31941.18,18548.85,340,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0220,Grande,Tecnología,41960.62,49485.76,500,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0221,Mediana,Manufactura,7809.18,34531.4,1446,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0222,Mediana,Servicios Financieros,185740.88,47500.05,1695,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0223,Pequeña,Retail,17817.27,7985.27,1498,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0224,Pequeña,Logística,23134.56,19724.83,838,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0225,Pequeña,Manufactura,23116.15,28181.86,201,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0226,Pequeña,Tecnología,18095.3,4761.15,605,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0227,Corporativa,Manufactura,5073.75,1205.18,60,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0228,Pequeña,Tecnología,70345.48,33851.28,76,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0229,Grande,Manufactura,175328.84,32449.16,159,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0230,Mediana,Tecnología,17699.05,21128.65,381,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0231,Grande,Servicios Financieros,59390.62,24992.56,1007,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0232,Mediana,Tecnología,72719.7,21356.71,1675,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0233,Mediana,Tecnología,99333.86,2176.25,1634,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0234,Mediana,Retail,32463.53,17433.21,87,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0235,Pequeña,Tecnología,23043.54,9677.03,1159,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0236,Mediana,Retail,24674.0,5822.79,841,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0237,Pequeña,Logística,67347.73,47879.3,1383,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0238,Pequeña,Retail,89853.24,30368.63,797,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0239,Mediana,Servicios Financieros,15021.06,36704.16,712,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0240,Pequeña,Retail,28176.51,16452.82,1436,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0241,Corporativa,Logística,121108.89,20264.21,1215,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0242,Corporativa,Servicios Financieros,87173.92,12609.28,1026,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0243,Corporativa,Manufactura,214515.48,5751.32,315,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0244,Pequeña,Manufactura,75171.67,9772.55,1124,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0245,Pequeña,Retail,29977.41,40078.19,1507,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0246,Corporativa,Retail,49657.75,34199.74,915,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0247,Pequeña,Logística,59089.86,27799.51,1620,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0248,Corporativa,Logística,9085.23,24279.4,426,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0249,Corporativa,Tecnología,44317.64,46199.28,1568,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0250,Grande,Logística,66776.76,4564.01,55,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0251,Pequeña,Tecnología,14155.37,14749.44,342,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0252,Pequeña,Servicios Financieros,80850.17,18146.95,155,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0253,Grande,Retail,48826.2,39338.86,1461,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0254,Pequeña,Servicios Financieros,157059.28,49633.22,1618,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0255,Pequeña,Logística,7167.42,12792.86,1251,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0256,Mediana,Servicios Financieros,20416.43,43841.06,840,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0257,Corporativa,Servicios Financieros,51009.15,41700.52,217,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0258,Mediana,Servicios Financieros,22588.63,12008.21,727,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0259,Mediana,Logística,67662.38,20567.3,839,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0260,Pequeña,Servicios Financieros,76149.01,21073.97,745,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0261,Mediana,Tecnología,10408.0,48932.81,1537,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0262,Corporativa,Logística,41062.36,9863.7,479,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0263,Pequeña,Servicios Financieros,40554.41,40158.74,552,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0264,Mediana,Logística,28044.72,17375.44,1407,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0265,Grande,Manufactura,140097.09,36812.65,1015,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0266,Mediana,Tecnología,92869.73,21580.54,687,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0267,Mediana,Servicios Financieros,64735.69,29339.63,626,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0268,Mediana,Manufactura,67645.31,41797.98,129,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0269,Pequeña,Manufactura,35968.46,40404.11,645,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0270,Pequeña,Logística,131911.9,43454.74,977,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0271,Grande,Manufactura,64305.9,3921.25,1611,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0272,Grande,Tecnología,70278.33,34910.48,585,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0273,Grande,Tecnología,103913.21,7859.38,307,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0274,Corporativa,Retail,21015.19,21375.11,1746,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0275,Mediana,Tecnología,87271.63,27880.83,1752,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0276,Mediana,Manufactura,15860.6,20734.23,1679,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0277,Grande,Tecnología,26182.11,26460.97,520,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0278,Mediana,Logística,25444.33,49829.79,284,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0279,Mediana,Retail,197044.38,7625.65,410,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0280,Grande,Manufactura,102083.98,34097.35,921,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0281,Grande,Retail,65394.0,20404.05,571,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0282,Pequeña,Manufactura,69924.57,7517.48,1317,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0283,Pequeña,Logística,46285.13,8778.1,1663,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0284,Pequeña,Retail,151958.78,47514.38,854,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0285,Mediana,Servicios Financieros,39284.63,44100.47,908,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0286,Pequeña,Manufactura,28943.56,45445.06,1382,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0287,Mediana,Servicios Financieros,13898.67,49585.11,1168,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0288,Mediana,Retail,82137.04,11207.45,1329,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0289,Pequeña,Servicios Financieros,71296.46,18416.53,1541,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0290,Mediana,Servicios Financieros,29254.24,33791.73,310,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0291,Pequeña,Retail,6275.81,24706.32,1328,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0292,Pequeña,Logística,96316.72,21501.09,802,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0293,Grande,Servicios Financieros,5574.18,18532.75,872,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0294,Pequeña,Servicios Financieros,65819.1,30095.25,748,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0295,Pequeña,Logística,180758.26,29204.08,357,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0296,Mediana,Servicios Financieros,33782.55,8911.43,240,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0297,Grande,Servicios Financieros,18392.23,24115.25,756,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0298,Pequeña,Servicios Financieros,66017.14,28120.12,952,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0299,Mediana,Tecnología,89948.48,28944.06,581,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0300,Pequeña,Logística,44530.32,11295.25,55,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0301,Pequeña,Servicios Financieros,175615.86,37371.3,56,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0302,Mediana,Logística,7652.57,2234.76,731,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0303,Mediana,Manufactura,40139.23,18386.76,1136,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0304,Mediana,Manufactura,68372.96,39230.42,711,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0305,Mediana,Servicios Financieros,104257.67,28630.75,442,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0306,Corporativa,Logística,14877.18,13796.96,196,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0307,Mediana,Logística,85472.77,35052.7,1753,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0308,Pequeña,Logística,45227.08,28802.16,198,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0309,Grande,Tecnología,30254.91,40015.94,258,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0310,Pequeña,Manufactura,12061.77,37016.23,1662,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0311,Pequeña,Logística,105233.69,30895.29,396,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0312,Pequeña,Logística,13555.62,24920.71,557,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0313,Pequeña,Tecnología,23537.81,7525.92,820,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0314,Corporativa,Tecnología,22127.72,13805.32,1700,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0315,Grande,Logística,107557.88,21535.87,1591,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0316,Mediana,Retail,60844.36,30365.67,553,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0317,Pequeña,Logística,84649.05,26171.68,1125,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0318,Pequeña,Logística,19415.31,15121.04,1698,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0319,Pequeña,Tecnología,54024.68,1316.75,135,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0320,Pequeña,Tecnología,47401.94,25315.72,761,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0321,Mediana,Logística,94437.31,14995.67,994,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0322,Mediana,Logística,123269.36,36995.81,1742,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0323,Mediana,Logística,5611.56,2173.37,1335,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0324,Pequeña,Tecnología,61045.95,29656.56,162,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0325,Corporativa,Logística,7661.38,47132.24,563,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0326,Mediana,Logística,44798.73,9546.05,1004,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0327,Mediana,Servicios Financieros,21958.08,24110.83,298,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0328,Mediana,Retail,23320.15,5479.68,1465,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0329,Pequeña,Manufactura,26767.24,31658.41,702,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0330,Pequeña,Retail,53549.55,27976.05,1672,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0331,Pequeña,Servicios Financieros,25327.03,20960.91,820,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0332,Grande,Manufactura,70969.01,26547.47,47,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0333,Pequeña,Logística,30919.99,44932.16,146,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0334,Pequeña,Servicios Financieros,8540.08,10618.42,827,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0335,Pequeña,Logística,81568.28,2105.66,1197,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0336,Pequeña,Tecnología,21826.69,43221.58,1770,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0337,Grande,Servicios Financieros,33349.25,29278.74,580,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0338,Mediana,Tecnología,62829.64,44642.26,958,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0339,Mediana,Servicios Financieros,25207.51,30250.32,1719,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0340,Pequeña,Servicios Financieros,7912.49,40697.89,1741,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0341,Mediana,Tecnología,28413.94,22053.99,782,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0342,Mediana,Manufactura,149522.31,37743.14,451,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0343,Pequeña,Retail,56324.03,45739.03,1422,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0344,Pequeña,Logística,60657.75,29034.03,675,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0345,Pequeña,Servicios Financieros,55021.97,9858.47,587,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0346,Mediana,Logística,16094.23,14171.08,79,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0347,Mediana,Tecnología,32092.93,10733.58,707,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0348,Pequeña,Logística,74503.03,13095.99,135,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0349,Pequeña,Tecnología,10344.36,16014.36,1269,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0350,Mediana,Logística,21276.31,28201.56,687,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0351,Mediana,Retail,21170.24,29811.59,1478,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0352,Grande,Retail,33283.36,21898.49,1125,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0353,Mediana,Retail,201531.61,31155.62,1017,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0354,Pequeña,Retail,8494.44,4997.17,871,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0355,Pequeña,Retail,41563.33,5301.62,475,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0356,Mediana,Retail,14883.82,9419.64,1239,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0357,Pequeña,Tecnología,181468.38,26385.8,99,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0358,Mediana,Servicios Financieros,11012.63,11485.74,179,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0359,Corporativa,Logística,30842.27,14880.94,1299,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0360,Mediana,Retail,71948.59,20615.33,803,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0361,Pequeña,Tecnología,65963.53,40781.44,1591,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0362,Mediana,Tecnología,32472.14,1679.24,1705,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0363,Mediana,Tecnología,26272.49,32819.56,1152,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0364,Mediana,Servicios Financieros,30342.71,33774.95,1331,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0365,Corporativa,Logística,20345.03,40134.13,1616,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0366,Pequeña,Servicios Financieros,16491.6,46704.89,1716,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0367,Corporativa,Manufactura,37989.46,1986.75,973,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0368,Corporativa,Tecnología,20635.21,8535.4,484,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0369,Pequeña,Manufactura,21946.08,44422.39,1157,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0370,Pequeña,Retail,58465.69,23467.41,975,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0371,Pequeña,Retail,177947.68,28664.94,630,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0372,Pequeña,Servicios Financieros,51271.27,33488.33,682,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0373,Pequeña,Logística,9005.19,34274.26,754,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0374,Mediana,Manufactura,8929.63,46655.28,262,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0375,Pequeña,Logística,156230.48,49850.52,1447,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0376,Pequeña,Servicios Financieros,22640.61,36287.72,1554,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0377,Grande,Retail,9829.23,15073.84,1748,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0378,Pequeña,Logística,50695.25,44107.87,280,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0379,Grande,Logística,53861.62,3411.82,1574,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0380,Pequeña,Retail,57277.96,12322.96,108,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0381,Pequeña,Manufactura,20557.91,44971.9,1105,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0382,Mediana,Retail,5761.3,13553.38,927,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0383,Mediana,Logística,172642.32,11811.9,950,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0384,Grande,Manufactura,19443.68,7768.14,810,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0385,Mediana,Manufactura,61354.65,43096.48,255,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0386,Grande,Retail,66316.01,25502.85,1104,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0387,Pequeña,Logística,52081.38,34069.77,1239,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0388,Pequeña,Servicios Financieros,23764.31,12714.25,1087,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0389,Grande,Logística,20810.68,38143.98,832,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0390,Grande,Tecnología,50523.92,38240.27,771,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0391,Corporativa,Servicios Financieros,105531.47,16317.3,160,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0392,Pequeña,Manufactura,151622.6,21123.45,1052,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0393,Pequeña,Servicios Financieros,10597.21,11274.82,661,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0394,Grande,Manufactura,13410.79,48851.49,1496,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0395,Pequeña,Manufactura,149781.91,32634.53,867,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0396,Corporativa,Servicios Financieros,71691.78,46792.65,788,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0397,Grande,Manufactura,112276.43,15865.89,1485,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0398,Pequeña,Manufactura,16321.99,39312.65,733,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0399,Grande,Tecnología,49286.36,38527.07,526,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0400,Grande,Logística,65388.93,34891.13,1456,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0401,Pequeña,Logística,61989.2,48316.31,352,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0402,Corporativa,Tecnología,31225.25,20284.21,1263,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0403,Mediana,Servicios Financieros,5775.73,7405.15,644,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0404,Grande,Retail,48724.59,33913.73,358,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0405,Pequeña,Retail,19591.3,36736.18,1425,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0406,Grande,Retail,34914.97,29177.97,1513,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0407,Pequeña,Tecnología,163007.96,11134.08,162,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0408,Pequeña,Tecnología,30460.96,25718.34,864,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0409,Corporativa,Manufactura,96567.11,16297.3,680,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0410,Pequeña,Retail,15446.05,21945.86,150,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0411,Pequeña,Servicios Financieros,60807.33,32615.71,635,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0412,Corporativa,Servicios Financieros,193628.17,37515.52,1505,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0413,Corporativa,Retail,10373.31,12379.01,994,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0414,Mediana,Retail,5417.74,20860.94,158,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0415,Mediana,Retail,33421.22,14188.92,1144,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0416,Pequeña,Tecnología,9860.0,10732.95,1657,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0417,Pequeña,Tecnología,73992.63,39385.97,1628,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0418,Pequeña,Tecnología,127990.41,45553.38,58,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0419,Mediana,Logística,33459.91,19141.38,751,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0420,Grande,Servicios Financieros,19968.28,37812.67,1577,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0421,Grande,Servicios Financieros,33493.7,44952.77,362,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0422,Grande,Manufactura,69267.79,42460.09,1350,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0423,Pequeña,Tecnología,5454.77,9957.86,1183,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0424,Mediana,Logística,49513.36,47858.3,1346,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0425,Pequeña,Logística,52504.23,19457.15,1226,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0426,Mediana,Servicios Financieros,55762.51,17622.79,1773,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0427,Pequeña,Tecnología,18855.05,4059.14,973,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0428,Grande,Manufactura,67597.39,24822.51,1077,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0429,Pequeña,Tecnología,9792.05,6341.67,1152,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0430,Pequeña,Retail,16111.59,13178.45,1459,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0431,Pequeña,Tecnología,109969.99,16530.19,385,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0432,Grande,Retail,72108.74,40632.49,168,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0433,Mediana,Retail,5692.04,43898.94,1556,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0434,Pequeña,Manufactura,19275.97,15820.85,1227,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0435,Pequeña,Servicios Financieros,17065.79,43076.21,58,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0436,Mediana,Tecnología,20790.8,43004.32,960,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0437,Pequeña,Retail,19221.69,38467.9,525,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0438,Grande,Tecnología,8228.33,8188.06,1043,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0439,Mediana,Servicios Financieros,35711.3,34825.82,684,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0440,Pequeña,Servicios Financieros,70975.44,47306.18,857,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0441,Pequeña,Logística,51663.16,34444.48,380,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0442,Corporativa,Servicios Financieros,60870.14,17249.23,583,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0443,Pequeña,Manufactura,9231.57,25528.39,328,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0444,Pequeña,Retail,156300.0,32640.53,1773,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0445,Grande,Logística,96159.98,26017.95,1245,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0446,Corporativa,Manufactura,86760.95,6877.69,1725,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0447,Corporativa,Tecnología,91575.7,16291.14,93,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0448,Grande,Retail,139937.56,40317.41,784,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0449,Pequeña,Servicios Financieros,44290.98,43209.48,799,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0450,Pequeña,Retail,16174.81,7727.7,1717,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0451,Grande,Tecnología,52957.77,47666.95,1268,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0452,Mediana,Logística,72910.91,17112.31,863,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0453,Pequeña,Logística,71954.78,33453.37,195,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0454,Corporativa,Logística,41849.63,37839.43,1596,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0455,Pequeña,Servicios Financieros,8545.74,40785.37,1285,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0456,Mediana,Manufactura,28190.18,47341.74,1594,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0457,Pequeña,Manufactura,131767.87,16333.06,1248,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0458,Mediana,Retail,48907.49,43066.82,535,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0459,Pequeña,Servicios Financieros,43645.46,7452.66,1387,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0460,Pequeña,Logística,20657.07,35547.0,822,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0461,Pequeña,Logística,27978.82,37356.91,1357,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0462,Mediana,Tecnología,117854.82,34208.44,862,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0463,Mediana,Tecnología,59900.08,13363.42,1490,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0464,Mediana,Logística,82414.09,43779.11,1376,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0465,Corporativa,Logística,35288.46,9274.06,1555,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0466,Pequeña,Servicios Financieros,54746.03,3628.1,887,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0467,Pequeña,Manufactura,19276.46,36155.78,1446,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0468,Grande,Tecnología,66117.16,24298.31,835,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0469,Pequeña,Manufactura,32895.98,42605.8,1652,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0470,Corporativa,Servicios Financieros,34218.72,19786.46,1202,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0471,Pequeña,Logística,57394.39,9245.65,790,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0472,Corporativa,Manufactura,142663.33,41985.67,862,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0473,Pequeña,Logística,8307.33,27896.57,1458,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0474,Grande,Logística,92075.16,10270.59,312,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0475,Mediana,Retail,22292.62,36298.82,1415,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0476,Corporativa,Manufactura,34342.11,26044.57,408,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0477,Pequeña,Manufactura,6107.85,30611.34,227,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0478,Mediana,Logística,22908.52,23584.02,1044,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0479,Corporativa,Servicios Financieros,39921.18,41606.74,1053,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0480,Mediana,Retail,7890.78,41648.57,585,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0481,Mediana,Logística,38774.77,35760.05,385,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0482,Mediana,Tecnología,135940.62,6164.67,1593,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0483,Mediana,Tecnología,10568.55,42103.84,1482,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0484,Mediana,Retail,77289.64,33879.64,1070,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0485,Mediana,Servicios Financieros,31353.77,35154.18,668,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0486,Corporativa,Logística,58235.73,18786.16,408,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0487,Pequeña,Manufactura,20071.24,44084.7,709,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0488,Pequeña,Retail,13687.46,36543.21,535,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0489,Corporativa,Servicios Financieros,13745.21,6516.93,928,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0490,Grande,Manufactura,8654.99,20981.12,105,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0491,Mediana,Tecnología,15268.05,44432.64,260,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0492,Mediana,Tecnología,59564.86,3312.64,1769,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0493,Pequeña,Manufactura,111722.61,48109.41,991,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0494,Pequeña,Retail,89134.23,34278.97,1301,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0495,Mediana,Tecnología,62780.46,31937.42,331,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0496,Pequeña,Logística,10850.96,14257.4,755,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0497,Mediana,Manufactura,22067.33,13190.8,244,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0498,Pequeña,Manufactura,23539.19,47160.85,1211,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0499,Corporativa,Tecnología,19381.23,15615.35,98,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0500,Corporativa,Retail,41180.9,38999.76,422,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0501,Mediana,Logística,43345.48,20262.97,1138,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0502,Mediana,Retail,27071.66,7823.45,296,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0503,Pequeña,Servicios Financieros,26831.47,1525.05,1122,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0504,Grande,Servicios Financieros,93174.81,27668.61,640,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0505,Mediana,Tecnología,82864.3,48813.16,1400,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0506,Pequeña,Tecnología,23393.72,19087.67,1038,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0507,Corporativa,Tecnología,127547.55,18502.42,991,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0508,Grande,Servicios Financieros,157683.98,17860.49,757,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0509,Corporativa,Retail,24781.37,26506.65,702,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0510,Mediana,Retail,26880.69,22592.58,452,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0511,Mediana,Tecnología,40223.97,44115.82,1659,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0512,Pequeña,Logística,146613.38,25770.52,1227,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0513,Corporativa,Retail,109502.66,25880.13,1730,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0514,Grande,Servicios Financieros,10410.89,7780.21,144,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0515,Pequeña,Manufactura,29939.15,49154.24,249,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0516,Pequeña,Manufactura,45301.37,13248.67,60,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0517,Pequeña,Manufactura,39971.59,4594.84,1576,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0518,Grande,Logística,15775.08,33494.17,1396,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0519,Corporativa,Tecnología,102884.84,30172.95,1430,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0520,Pequeña,Servicios Financieros,61495.98,21342.14,1183,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0521,Mediana,Logística,95979.68,21687.42,646,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0522,Pequeña,Servicios Financieros,102866.25,39468.13,568,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0523,Corporativa,Servicios Financieros,73986.97,10589.92,768,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0524,Grande,Tecnología,33920.49,41192.41,1055,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0525,Grande,Manufactura,52150.57,32788.61,900,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0526,Mediana,Tecnología,13739.42,21529.52,130,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0527,Pequeña,Logística,60988.54,23443.4,1586,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0528,Pequeña,Logística,14877.03,13575.71,1111,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0529,Pequeña,Logística,64200.27,37853.6,1442,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0530,Grande,Tecnología,18042.15,26130.86,721,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0531,Grande,Servicios Financieros,11252.73,16721.87,970,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0532,Corporativa,Servicios Financieros,14033.22,30206.46,370,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0533,Corporativa,Retail,5099.71,49790.99,890,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0534,Mediana,Logística,68423.72,22327.85,1073,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0535,Grande,Servicios Financieros,70913.29,46113.88,1308,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0536,Corporativa,Retail,41173.45,17905.83,1370,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0537,Grande,Servicios Financieros,13798.85,3681.9,67,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0538,Pequeña,Logística,9362.63,11007.86,689,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0539,Mediana,Manufactura,5965.71,21516.06,1590,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0540,Pequeña,Logística,14061.0,11762.11,1439,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0541,Corporativa,Tecnología,115754.15,1011.12,1686,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0542,Mediana,Servicios Financieros,18823.05,45835.08,957,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0543,Pequeña,Servicios Financieros,26868.79,42350.09,1079,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0544,Mediana,Tecnología,10565.88,37372.32,483,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0545,Mediana,Tecnología,17574.66,9222.92,1734,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0546,Pequeña,Manufactura,41617.75,6897.82,1376,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0547,Pequeña,Servicios Financieros,51793.14,4312.63,766,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0548,Mediana,Servicios Financieros,19075.21,36477.43,1566,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0549,Mediana,Manufactura,7973.29,46511.59,848,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0550,Grande,Retail,29799.55,22096.26,802,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0551,Mediana,Manufactura,18341.93,6837.89,42,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0552,Grande,Logística,17394.48,26107.25,944,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0553,Mediana,Servicios Financieros,165772.59,18092.76,1613,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0554,Mediana,Tecnología,52894.78,19366.42,950,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0555,Grande,Logística,45695.56,31445.2,854,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0556,Pequeña,Servicios Financieros,31873.46,36217.19,400,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0557,Pequeña,Manufactura,33013.43,6419.58,1344,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0558,Pequeña,Logística,43924.91,2743.92,361,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0559,Grande,Servicios Financieros,64607.12,49722.18,1659,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0560,Mediana,Retail,65557.61,12403.69,290,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0561,Mediana,Retail,14418.63,3637.7,1258,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0562,Pequeña,Tecnología,39668.64,10303.89,726,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0563,Pequeña,Servicios Financieros,31547.85,2908.93,716,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0564,Pequeña,Retail,107214.13,20198.73,979,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0565,Pequeña,Manufactura,54904.73,40317.69,416,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0566,Mediana,Servicios Financieros,43018.23,17720.98,850,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0567,Pequeña,Manufactura,11130.68,22764.99,497,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0568,Pequeña,Manufactura,51524.29,34103.75,1468,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0569,Corporativa,Retail,11233.05,25935.81,98,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0570,Pequeña,Servicios Financieros,25564.6,43210.84,1525,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0571,Mediana,Logística,12706.65,43435.75,1157,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0572,Grande,Retail,63894.73,1485.62,1214,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0573,Pequeña,Retail,16549.47,39124.27,229,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0574,Mediana,Servicios Financieros,29867.46,23575.95,245,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0575,Grande,Servicios Financieros,118012.11,49453.19,241,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0576,Corporativa,Manufactura,16427.68,24678.37,537,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0577,Pequeña,Servicios Financieros,40444.02,49357.9,45,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0578,Corporativa,Manufactura,32173.61,37973.9,1551,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0579,Mediana,Retail,5914.51,13181.64,913,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0580,Pequeña,Tecnología,83693.43,27381.35,361,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0581,Mediana,Logística,8577.27,49614.65,746,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0582,Corporativa,Retail,37146.95,43019.0,580,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0583,Mediana,Servicios Financieros,46126.17,5770.98,1654,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0584,Pequeña,Logística,54500.42,35612.23,971,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0585,Mediana,Tecnología,63338.93,17933.4,285,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0586,Pequeña,Tecnología,19602.74,1342.13,1021,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0587,Pequeña,Manufactura,5501.44,20770.57,757,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0588,Pequeña,Logística,69267.04,12502.97,909,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0589,Pequeña,Manufactura,43356.55,41124.59,844,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0590,Pequeña,Retail,95430.34,17529.2,1225,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0591,Pequeña,Logística,91127.07,41548.66,678,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0592,Mediana,Retail,97679.46,1029.3,1029,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0593,Pequeña,Manufactura,38188.61,16083.14,1551,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0594,Pequeña,Logística,25295.39,12817.1,500,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0595,Grande,Manufactura,83404.77,12444.8,1437,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0596,Mediana,Logística,35009.64,4341.14,719,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0597,Mediana,Manufactura,15132.88,10169.09,1642,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0598,Pequeña,Tecnología,101542.12,28221.93,729,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0599,Pequeña,Manufactura,112091.33,15276.69,536,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0600,Pequeña,Tecnología,36396.98,21452.34,1021,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0601,Pequeña,Manufactura,8935.91,19466.48,1039,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0602,Pequeña,Logística,29536.94,43919.34,1580,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0603,Pequeña,Logística,86364.23,45359.65,833,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0604,Pequeña,Logística,121024.23,25154.89,860,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0605,Pequeña,Servicios Financieros,16374.7,17177.64,1378,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0606,Mediana,Retail,8466.09,6233.23,243,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0607,Pequeña,Logística,109921.21,47716.74,1261,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0608,Pequeña,Tecnología,29666.06,3951.12,198,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0609,Mediana,Logística,44018.22,15584.86,1383,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0610,Mediana,Servicios Financieros,177203.91,15605.24,1333,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0611,Pequeña,Tecnología,8444.18,16699.66,1007,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0612,Grande,Servicios Financieros,57251.4,9050.06,1358,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0613,Mediana,Tecnología,8849.74,39374.91,175,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0614,Pequeña,Manufactura,28537.71,7002.4,545,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0615,Grande,Retail,86434.74,32110.43,1143,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0616,Corporativa,Retail,33411.46,7068.46,482,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0617,Pequeña,Servicios Financieros,298592.67,4456.25,89,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0618,Pequeña,Retail,45942.24,45562.05,1364,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0619,Grande,Servicios Financieros,24368.65,10316.31,557,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0620,Mediana,Servicios Financieros,17430.2,41241.26,1280,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0621,Pequeña,Servicios Financieros,26579.2,27686.91,1053,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0622,Pequeña,Retail,28303.23,4814.97,503,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0623,Pequeña,Servicios Financieros,8559.43,47816.96,1594,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0624,Mediana,Retail,28067.99,13101.1,1716,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0625,Mediana,Servicios Financieros,36203.31,43122.62,786,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0626,Pequeña,Logística,69139.57,9271.69,811,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0627,Mediana,Servicios Financieros,58461.82,42843.2,1132,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0628,Mediana,Tecnología,66681.35,1648.21,462,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0629,Pequeña,Servicios Financieros,5419.94,26077.24,1206,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0630,Pequeña,Manufactura,17273.77,38702.69,430,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0631,Mediana,Servicios Financieros,59188.79,46804.98,1332,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0632,Grande,Tecnología,38081.4,45550.9,86,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0633,Mediana,Tecnología,5266.38,41161.62,1032,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0634,Mediana,Retail,86608.37,44521.38,215,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0635,Pequeña,Logística,79098.34,10761.76,427,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0636,Pequeña,Servicios Financieros,44750.04,14925.03,634,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0637,Mediana,Retail,8438.75,15159.46,817,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0638,Pequeña,Logística,77731.88,19475.64,187,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0639,Pequeña,Servicios Financieros,48819.09,20272.71,1746,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0640,Pequeña,Manufactura,81153.83,27683.21,1412,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0641,Pequeña,Servicios Financieros,74665.34,8834.11,1493,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0642,Pequeña,Tecnología,86228.1,34871.09,618,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0643,Pequeña,Tecnología,41491.4,9210.76,495,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0644,Pequeña,Manufactura,12560.02,16205.12,1716,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0645,Pequeña,Retail,60608.81,25663.91,475,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0646,Grande,Logística,53441.58,40025.59,830,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0647,Mediana,Servicios Financieros,72788.88,37233.99,1796,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0648,Mediana,Tecnología,14309.31,32631.18,1541,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0649,Grande,Retail,15844.11,8632.89,1583,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0650,Mediana,Manufactura,115550.24,27805.22,1126,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0651,Pequeña,Tecnología,74310.28,5284.88,958,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0652,Mediana,Manufactura,124422.67,19490.8,1754,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0653,Mediana,Servicios Financieros,76088.89,21262.31,46,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0654,Mediana,Logística,50460.21,2950.76,1584,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0655,Pequeña,Tecnología,58085.01,14425.42,760,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0656,Pequeña,Tecnología,114968.91,47826.82,355,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0657,Pequeña,Servicios Financieros,48233.18,47728.0,1024,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0658,Pequeña,Retail,55036.81,18264.03,1685,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0659,Mediana,Logística,13508.39,3111.91,642,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0660,Mediana,Tecnología,37115.22,9775.65,575,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0661,Pequeña,Logística,68009.02,20218.67,625,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0662,Corporativa,Tecnología,20800.15,47441.21,950,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0663,Mediana,Logística,16298.26,7918.75,1761,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0664,Pequeña,Manufactura,23831.26,38412.28,871,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0665,Pequeña,Tecnología,18820.67,6325.44,1255,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0666,Pequeña,Logística,17098.01,49081.62,373,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0667,Pequeña,Retail,32656.29,19699.21,1576,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0668,Pequeña,Manufactura,124210.65,38986.49,888,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0669,Pequeña,Manufactura,40368.35,17786.96,1453,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0670,Pequeña,Retail,15407.84,31755.77,1271,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0671,Pequeña,Logística,9004.77,10408.79,474,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0672,Grande,Servicios Financieros,64562.07,8155.03,251,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0673,Pequeña,Retail,29128.01,46965.14,1436,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0674,Mediana,Logística,91251.12,45964.72,621,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0675,Pequeña,Retail,58868.59,44485.98,1060,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0676,Corporativa,Retail,84540.98,31646.24,1325,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0677,Pequeña,Tecnología,20869.01,40605.14,1792,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0678,Pequeña,Logística,63941.08,4382.81,1047,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0679,Corporativa,Servicios Financieros,20330.47,17404.66,45,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0680,Grande,Tecnología,144900.23,16371.45,1477,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0681,Grande,Retail,55581.51,32146.62,553,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0682,Pequeña,Retail,24615.98,18441.93,832,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0683,Pequeña,Retail,20702.11,8276.83,50,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0684,Mediana,Logística,15593.28,30226.89,1743,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0685,Corporativa,Logística,64313.35,40904.81,257,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0686,Mediana,Tecnología,17340.8,19724.05,1037,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0687,Mediana,Servicios Financieros,50230.86,7481.17,1341,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0688,Pequeña,Tecnología,20369.42,10637.72,838,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0689,Grande,Manufactura,59230.88,12636.68,1187,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0690,Pequeña,Retail,89353.69,15694.98,1336,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0691,Pequeña,Retail,80259.58,32496.96,433,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0692,Pequeña,Retail,76533.49,30446.33,1718,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0693,Mediana,Tecnología,15395.66,35107.91,1119,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0694,Pequeña,Tecnología,9626.87,18762.6,1702,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0695,Pequeña,Retail,65023.75,41375.88,1657,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0696,Mediana,Tecnología,27970.77,11000.3,466,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0697,Pequeña,Logística,33312.18,23983.0,858,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0698,Mediana,Logística,6582.23,40246.0,963,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0699,Pequeña,Tecnología,20026.64,9827.77,288,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0700,Mediana,Retail,6712.83,6383.29,132,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0701,Mediana,Tecnología,110675.06,44300.51,1022,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0702,Pequeña,Tecnología,18945.81,17803.55,1620,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0703,Pequeña,Tecnología,45747.35,34509.64,798,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0704,Pequeña,Manufactura,6987.97,2242.08,1154,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0705,Pequeña,Logística,59957.73,34812.3,1251,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0706,Corporativa,Servicios Financieros,24506.22,16488.96,842,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0707,Pequeña,Servicios Financieros,119099.52,3731.3,255,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0708,Grande,Manufactura,114515.61,30880.83,972,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0709,Pequeña,Tecnología,24673.66,12799.39,492,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0710,Mediana,Manufactura,120612.03,19953.55,266,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0711,Grande,Manufactura,283083.86,4948.46,1079,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0712,Mediana,Retail,92267.37,8211.0,1174,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0713,Mediana,Logística,98175.02,15600.88,535,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0714,Pequeña,Servicios Financieros,19318.06,5398.22,1235,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0715,Pequeña,Tecnología,47983.99,45630.49,1764,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0716,Corporativa,Servicios Financieros,8481.22,1296.31,843,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0717,Grande,Servicios Financieros,9986.48,24709.15,796,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0718,Corporativa,Logística,345287.56,7039.13,663,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0719,Pequeña,Servicios Financieros,24773.7,16076.28,1596,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0720,Mediana,Servicios Financieros,73952.81,46376.92,1368,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0721,Corporativa,Manufactura,87166.56,8923.03,1020,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0722,Pequeña,Logística,102604.61,48325.78,647,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0723,Pequeña,Retail,307207.36,11083.92,1789,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0724,Mediana,Tecnología,18820.39,37336.74,302,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0725,Mediana,Servicios Financieros,7059.38,27787.19,261,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0726,Grande,Tecnología,31482.72,44339.46,1473,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0727,Pequeña,Retail,11967.74,28145.67,797,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0728,Grande,Tecnología,6134.06,27193.4,1495,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0729,Pequeña,Retail,27347.71,10577.44,525,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0730,Pequeña,Manufactura,81563.29,9145.24,1077,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0731,Pequeña,Servicios Financieros,46756.36,45907.97,1162,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0732,Grande,Retail,23754.89,17064.07,1756,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0733,Mediana,Tecnología,58115.27,19232.03,531,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0734,Mediana,Servicios Financieros,18199.46,38231.36,54,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0735,Pequeña,Manufactura,5724.29,17602.35,1240,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0736,Grande,Servicios Financieros,77271.1,47651.06,317,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0737,Pequeña,Retail,53874.15,37158.46,1681,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0738,Grande,Manufactura,76837.85,30274.03,367,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0739,Pequeña,Tecnología,6985.82,44163.86,1090,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0740,Pequeña,Manufactura,95736.96,3430.69,166,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0741,Mediana,Manufactura,53316.9,13596.07,537,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0742,Pequeña,Logística,46436.36,23786.78,256,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0743,Mediana,Manufactura,53990.03,12121.95,349,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0744,Mediana,Manufactura,104914.56,37451.35,945,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0745,Pequeña,Servicios Financieros,49207.7,46041.19,1235,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0746,Grande,Tecnología,48488.3,21764.74,115,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0747,Pequeña,Servicios Financieros,238775.11,17764.5,1520,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0748,Mediana,Servicios Financieros,75679.2,48115.99,955,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0749,Corporativa,Retail,34196.15,22797.77,82,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0750,Mediana,Servicios Financieros,66446.93,24963.37,889,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0751,Pequeña,Logística,29651.78,18230.84,896,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0752,Corporativa,Logística,17995.27,45567.88,1288,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0753,Mediana,Retail,50422.56,28878.82,462,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0754,Pequeña,Tecnología,136681.08,38346.55,1549,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0755,Pequeña,Tecnología,137352.12,40778.53,1028,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0756,Grande,Servicios Financieros,25920.32,17750.6,129,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0757,Mediana,Servicios Financieros,42504.66,22251.02,1019,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0758,Mediana,Servicios Financieros,16889.76,42575.12,628,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0759,Grande,Tecnología,276662.31,18799.51,432,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0760,Grande,Manufactura,203477.07,39902.82,425,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0761,Pequeña,Logística,57421.0,47108.62,1580,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0762,Pequeña,Manufactura,86587.77,31537.31,444,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0763,Pequeña,Manufactura,67780.88,37339.74,968,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0764,Mediana,Tecnología,49966.55,40449.77,1666,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0765,Pequeña,Manufactura,7741.19,42406.94,706,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0766,Mediana,Retail,35326.86,20357.61,492,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0767,Grande,Servicios Financieros,61163.64,3511.91,570,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0768,Grande,Retail,61587.51,20691.94,1679,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0769,Pequeña,Logística,28350.22,34014.06,1672,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0770,Grande,Servicios Financieros,147100.79,23067.17,1417,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0771,Pequeña,Manufactura,14157.52,37699.19,1183,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0772,Grande,Logística,39693.32,18492.14,113,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0773,Pequeña,Servicios Financieros,63701.93,32102.46,300,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0774,Pequeña,Manufactura,64723.54,10134.57,273,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0775,Grande,Retail,57297.05,37719.1,417,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0776,Pequeña,Servicios Financieros,21099.06,27739.1,243,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0777,Pequeña,Manufactura,13492.38,10999.16,847,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0778,Mediana,Retail,55521.87,15303.65,1219,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0779,Mediana,Logística,50727.38,37681.83,88,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0780,Mediana,Logística,14883.29,24647.46,1655,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0781,Mediana,Logística,66062.59,11585.54,912,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0782,Mediana,Logística,35364.26,48396.29,872,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0783,Pequeña,Tecnología,60094.97,36041.13,953,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0784,Pequeña,Servicios Financieros,95812.98,47899.61,1557,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0785,Pequeña,Servicios Financieros,14300.12,21928.15,1759,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0786,Corporativa,Tecnología,5966.53,24279.92,152,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0787,Mediana,Manufactura,80502.84,44999.81,1701,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0788,Pequeña,Manufactura,52041.65,26727.42,1466,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0789,Mediana,Logística,65138.6,35656.67,1192,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0790,Corporativa,Retail,96055.8,13356.47,1282,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0791,Pequeña,Manufactura,86179.61,22889.6,1327,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0792,Mediana,Retail,167107.41,7049.04,468,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0793,Mediana,Servicios Financieros,43386.54,11093.02,1051,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0794,Mediana,Retail,38519.96,1046.23,591,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0795,Pequeña,Servicios Financieros,30698.8,2923.99,147,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0796,Grande,Tecnología,13343.54,48886.91,1767,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0797,Corporativa,Tecnología,47502.59,12875.33,934,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0798,Mediana,Logística,21218.17,33502.22,1536,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0799,Mediana,Manufactura,132110.38,42115.89,424,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0800,Corporativa,Logística,48756.34,27982.36,1756,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0801,Mediana,Servicios Financieros,49927.47,8504.08,905,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0802,Pequeña,Logística,26919.41,36677.71,1513,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0803,Mediana,Retail,7669.48,30412.32,1746,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0804,Mediana,Servicios Financieros,6612.93,36831.28,964,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0805,Pequeña,Tecnología,32524.7,38717.58,1131,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0806,Mediana,Manufactura,9417.82,48795.11,981,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0807,Corporativa,Servicios Financieros,51677.82,29104.6,1465,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0808,Corporativa,Servicios Financieros,111420.25,17740.41,104,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0809,Mediana,Retail,112242.68,32774.76,324,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0810,Pequeña,Manufactura,58800.3,4353.59,50,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0811,Corporativa,Tecnología,16864.14,44972.47,1224,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0812,Grande,Servicios Financieros,104387.56,6849.67,1068,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0813,Pequeña,Servicios Financieros,113618.84,17064.3,1264,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0814,Corporativa,Retail,15948.46,40971.52,589,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0815,Grande,Logística,71861.13,30268.31,1139,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0816,Mediana,Tecnología,21880.01,20288.14,1202,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0817,Mediana,Manufactura,86136.37,24198.35,1753,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0818,Pequeña,Servicios Financieros,299588.2,42872.82,401,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0819,Pequeña,Servicios Financieros,6524.3,17660.21,1533,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0820,Pequeña,Tecnología,118829.24,43612.83,847,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0821,Grande,Logística,53726.53,5318.59,1204,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0822,Pequeña,Servicios Financieros,186309.54,39063.12,1194,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0823,Pequeña,Tecnología,36275.32,42529.83,1122,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0824,Pequeña,Retail,98992.8,9909.06,1313,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0825,Mediana,Logística,8221.28,22086.98,875,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0826,Corporativa,Manufactura,25419.4,9109.49,550,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0827,Pequeña,Servicios Financieros,8468.39,35623.6,1686,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0828,Pequeña,Tecnología,190134.99,27232.04,400,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0829,Mediana,Retail,89906.33,32130.84,1472,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0830,Mediana,Manufactura,100712.43,10627.86,130,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0831,Pequeña,Tecnología,144003.01,11375.55,690,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0832,Mediana,Tecnología,9447.22,3033.37,1711,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0833,Pequeña,Manufactura,29355.26,16781.31,997,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0834,Pequeña,Retail,8684.2,28427.49,272,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0835,Mediana,Retail,16836.34,43038.81,782,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0836,Pequeña,Logística,18027.07,33679.44,541,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0837,Corporativa,Servicios Financieros,36659.76,22334.42,878,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0838,Pequeña,Manufactura,20637.15,47702.89,584,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0839,Mediana,Manufactura,10322.39,36243.01,1148,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0840,Mediana,Manufactura,14165.57,46578.09,255,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0841,Pequeña,Retail,12965.94,26851.81,1571,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0842,Mediana,Servicios Financieros,185738.34,13686.31,243,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0843,Pequeña,Logística,76208.64,3588.51,747,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0844,Corporativa,Tecnología,176729.64,36578.16,96,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0845,Pequeña,Tecnología,33967.76,6943.85,425,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0846,Pequeña,Manufactura,21312.03,15835.98,641,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0847,Pequeña,Servicios Financieros,85047.01,27091.07,1065,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0848,Corporativa,Retail,24745.1,28656.41,1290,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0849,Mediana,Servicios Financieros,22789.72,30428.58,799,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0850,Mediana,Servicios Financieros,18231.23,9146.51,1452,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0851,Pequeña,Retail,11944.66,19607.13,436,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0852,Mediana,Manufactura,19816.84,31242.52,954,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0853,Pequeña,Servicios Financieros,26950.04,48521.12,1533,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0854,Grande,Tecnología,61042.01,36653.93,676,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0855,Pequeña,Retail,8230.38,46207.58,251,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0856,Pequeña,Logística,16818.21,38348.39,1209,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0857,Pequeña,Manufactura,87780.28,29994.13,683,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0858,Mediana,Retail,12945.21,10409.15,457,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0859,Mediana,Logística,25976.56,33667.6,1211,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0860,Pequeña,Logística,104997.86,31545.6,1006,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0861,Grande,Servicios Financieros,13416.51,30520.99,1469,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0862,Mediana,Servicios Financieros,9318.04,24999.51,1035,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0863,Mediana,Servicios Financieros,38134.58,26904.17,1379,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0864,Pequeña,Retail,23006.87,17387.68,400,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0865,Pequeña,Retail,46437.85,26446.32,1397,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0866,Mediana,Manufactura,86432.28,10680.24,1315,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0867,Pequeña,Servicios Financieros,12375.63,40453.55,1336,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0868,Pequeña,Logística,48458.32,10103.07,879,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0869,Grande,Tecnología,40211.29,5163.35,885,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0870,Corporativa,Manufactura,12778.85,22376.06,258,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0871,Pequeña,Retail,53908.11,33257.06,309,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0872,Pequeña,Manufactura,20985.5,22448.12,1343,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0873,Mediana,Manufactura,38455.36,14560.95,1733,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0874,Pequeña,Manufactura,9292.73,28350.39,1100,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0875,Pequeña,Manufactura,35770.81,18003.11,1004,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0876,Pequeña,Tecnología,23297.57,46710.52,1768,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0877,Mediana,Servicios Financieros,91405.78,46209.61,1267,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0878,Mediana,Logística,7933.32,25616.22,787,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0879,Pequeña,Manufactura,32116.44,17066.32,1077,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0880,Pequeña,Manufactura,35664.28,37119.49,350,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0881,Pequeña,Manufactura,69550.31,2798.93,303,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0882,Mediana,Servicios Financieros,47699.56,24263.68,585,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0883,Pequeña,Retail,60012.53,17479.85,873,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0884,Pequeña,Retail,80040.23,46106.26,1366,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0885,Grande,Tecnología,104098.68,1588.15,1416,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0886,Pequeña,Retail,23834.81,28087.93,697,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0887,Mediana,Manufactura,43611.98,37292.52,1029,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0888,Pequeña,Manufactura,96662.86,24765.88,409,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0889,Pequeña,Manufactura,232586.83,5184.75,740,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0890,Pequeña,Tecnología,115145.73,48650.61,1727,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0891,Mediana,Manufactura,28218.36,26382.51,1523,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0892,Grande,Retail,15855.99,31095.13,775,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0893,Grande,Servicios Financieros,38607.71,12593.88,704,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0894,Pequeña,Servicios Financieros,72670.35,24691.41,145,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0895,Mediana,Logística,38919.73,22028.33,634,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0896,Pequeña,Retail,38003.11,4669.9,1095,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0897,Pequeña,Manufactura,96079.12,6201.86,408,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0898,Grande,Servicios Financieros,27424.15,42036.15,1775,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0899,Pequeña,Retail,103232.37,12751.18,1259,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0900,Pequeña,Servicios Financieros,31111.59,10552.96,495,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0901,Pequeña,Manufactura,24892.19,25740.66,1785,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0902,Pequeña,Servicios Financieros,35255.89,38668.61,309,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0903,Pequeña,Logística,76868.22,4035.38,1701,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0904,Mediana,Logística,11733.86,29263.59,647,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0905,Pequeña,Servicios Financieros,15933.88,6841.31,147,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0906,Grande,Retail,156252.73,2786.59,1290,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0907,Grande,Retail,14648.4,3584.45,338,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0908,Pequeña,Retail,46934.93,41874.04,1509,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0909,Pequeña,Servicios Financieros,48293.48,6780.65,1528,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0910,Pequeña,Retail,38630.42,3212.42,129,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0911,Mediana,Manufactura,56746.01,22457.09,290,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0912,Pequeña,Logística,18056.99,42355.68,1022,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0913,Mediana,Manufactura,45222.07,13858.01,1358,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0914,Pequeña,Retail,28274.55,21663.92,1407,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0915,Mediana,Manufactura,59186.27,2956.2,315,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0916,Pequeña,Retail,12612.33,23004.85,357,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0917,Pequeña,Servicios Financieros,47300.63,29303.04,1156,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0918,Corporativa,Manufactura,15244.95,28974.45,92,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0919,Grande,Servicios Financieros,21331.06,17288.91,716,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0920,Pequeña,Servicios Financieros,17340.43,16461.13,1335,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0921,Grande,Tecnología,15095.88,6224.56,1494,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0922,Mediana,Retail,92352.01,18973.12,1346,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0923,Grande,Logística,21823.14,5875.24,767,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0924,Grande,Retail,135949.65,38563.2,1060,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0925,Pequeña,Logística,180205.59,48347.44,668,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0926,Pequeña,Retail,47345.29,48533.65,965,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0927,Pequeña,Servicios Financieros,12715.93,43388.48,1145,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0928,Mediana,Manufactura,28464.05,30438.82,1243,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0929,Mediana,Manufactura,84908.15,35342.42,505,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0930,Pequeña,Tecnología,27895.12,14975.08,1564,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0931,Pequeña,Logística,9551.91,31907.75,1515,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0932,Grande,Logística,45685.0,23326.83,82,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0933,Corporativa,Logística,98255.51,24618.85,783,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0934,Mediana,Servicios Financieros,84463.73,38131.05,515,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0935,Pequeña,Logística,14626.06,14814.0,1697,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0936,Pequeña,Manufactura,60853.78,16583.94,1543,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0937,Pequeña,Servicios Financieros,17455.4,46307.45,1417,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0938,Corporativa,Retail,17308.3,3754.99,1165,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0939,Pequeña,Logística,108602.16,24796.08,438,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0940,Mediana,Logística,19362.04,45727.24,1060,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0941,Pequeña,Retail,20275.15,30907.79,1795,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0942,Mediana,Logística,5032.68,27773.95,697,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0943,Mediana,Retail,107269.03,13237.46,1250,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0944,Grande,Servicios Financieros,83654.05,17820.5,864,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0945,Pequeña,Manufactura,54352.96,42750.37,905,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0946,Pequeña,Retail,74367.9,28401.69,1788,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0947,Pequeña,Tecnología,13246.6,26222.37,396,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0948,Corporativa,Retail,35654.32,5879.41,1031,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0949,Grande,Logística,26633.03,1785.38,279,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0950,Mediana,Servicios Financieros,9923.47,48220.57,1648,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0951,Mediana,Servicios Financieros,38289.3,19472.32,1293,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0952,Mediana,Retail,131750.86,30557.44,409,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0953,Pequeña,Manufactura,7044.18,4906.04,901,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0954,Corporativa,Tecnología,22227.5,34472.6,864,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0955,Pequeña,Servicios Financieros,16630.72,46695.77,1524,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0956,Pequeña,Logística,18600.06,29207.6,804,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0957,Mediana,Logística,124535.06,7179.65,948,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0958,Pequeña,Manufactura,36562.08,29504.35,1754,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0959,Pequeña,Servicios Financieros,36396.01,38551.01,484,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0960,Mediana,Retail,76475.89,20914.41,395,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0961,Pequeña,Logística,13390.89,44112.05,1343,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0962,Mediana,Manufactura,38399.84,32785.46,432,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0963,Pequeña,Servicios Financieros,33104.65,45063.2,87,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0964,Pequeña,Servicios Financieros,50429.86,31551.76,550,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0965,Pequeña,Servicios Financieros,391176.48,7433.11,1357,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_0966,Pequeña,Servicios Financieros,78364.14,16174.89,1168,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0967,Mediana,Servicios Financieros,30363.74,10887.95,239,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0968,Pequeña,Logística,92883.28,45532.5,1094,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0969,Mediana,Manufactura,14359.17,38259.6,845,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0970,Mediana,Servicios Financieros,6546.87,34143.52,202,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0971,Mediana,Tecnología,16435.98,15747.35,263,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0972,Corporativa,Tecnología,25806.96,10018.19,822,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0973,Mediana,Manufactura,40726.79,38066.1,1643,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0974,Pequeña,Retail,52742.37,24233.74,1673,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0975,Pequeña,Retail,125734.93,12063.69,822,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_0976,Pequeña,Retail,40652.6,31214.48,1456,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0977,Mediana,Tecnología,39785.09,2976.36,1092,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0978,Pequeña,Retail,7577.46,16982.34,148,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0979,Mediana,Logística,6776.78,23959.29,364,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0980,Mediana,Servicios Financieros,45054.44,8249.96,1389,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0981,Pequeña,Tecnología,33828.56,49248.07,1592,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0982,Grande,Manufactura,96373.6,11245.77,1669,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0983,Pequeña,Manufactura,13758.14,7387.3,1127,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0984,Pequeña,Servicios Financieros,6264.44,10973.21,1244,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0985,Mediana,Tecnología,34804.54,38684.0,353,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0986,Mediana,Retail,18556.23,21849.78,1040,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0987,Mediana,Retail,7544.37,28705.38,1200,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0988,Pequeña,Logística,69476.22,2029.45,313,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0989,Pequeña,Logística,10916.27,2687.13,242,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0990,Grande,Retail,51865.44,22845.45,1688,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0991,Grande,Manufactura,21498.16,41016.11,1771,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0992,Mediana,Manufactura,14527.53,44376.71,958,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0993,Pequeña,Logística,28881.76,5248.62,781,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0994,Mediana,Servicios Financieros,85834.65,27379.79,1447,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0995,Pequeña,Retail,29886.72,45748.25,368,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_0996,Pequeña,Logística,74468.89,20010.66,1075,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0997,Corporativa,Logística,11704.37,41648.73,134,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_0998,Pequeña,Retail,79089.94,7551.09,1519,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_0999,Corporativa,Retail,18520.49,46834.33,1512,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1000,Pequeña,Manufactura,61566.04,37819.74,1485,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1001,Pequeña,Servicios Financieros,46710.38,47125.39,799,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1002,Mediana,Servicios Financieros,137355.79,34154.24,745,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1003,Grande,Retail,29495.83,18806.79,1672,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1004,Mediana,Tecnología,8422.79,46970.88,792,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1005,Grande,Logística,5967.07,14502.77,1274,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1006,Mediana,Logística,92682.32,17276.45,408,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1007,Mediana,Retail,42194.2,35339.61,1275,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1008,Grande,Tecnología,79637.01,38500.5,1311,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1009,Pequeña,Manufactura,18356.44,46540.77,742,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1010,Mediana,Retail,26162.4,11035.32,1420,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1011,Pequeña,Retail,6528.31,40101.9,1402,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1012,Corporativa,Logística,167844.88,37188.76,254,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1013,Corporativa,Retail,60111.13,4125.93,1767,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1014,Pequeña,Retail,140306.42,19973.93,767,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1015,Mediana,Retail,20428.02,14855.51,265,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1016,Corporativa,Logística,52268.42,15920.03,212,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1017,Pequeña,Manufactura,61737.88,49164.4,741,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1018,Mediana,Manufactura,24103.28,32496.09,473,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1019,Corporativa,Retail,99229.68,36166.13,652,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1020,Pequeña,Logística,152025.72,48854.26,1059,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1021,Mediana,Manufactura,113078.2,19482.89,1289,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1022,Pequeña,Manufactura,72174.58,40290.17,1180,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1023,Corporativa,Manufactura,21249.45,22292.02,1157,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1024,Corporativa,Logística,21537.55,43607.15,778,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1025,Corporativa,Logística,170331.17,9852.22,1533,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1026,Mediana,Retail,5516.89,47436.62,184,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1027,Grande,Servicios Financieros,67947.85,11719.81,286,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1028,Grande,Manufactura,66250.66,16984.8,264,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1029,Pequeña,Servicios Financieros,53734.35,38053.42,529,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1030,Grande,Logística,235805.72,20294.0,318,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1031,Pequeña,Logística,23689.56,30802.36,539,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1032,Mediana,Logística,25773.64,22784.1,1605,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1033,Pequeña,Servicios Financieros,9111.47,37376.13,738,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1034,Pequeña,Logística,34241.38,12188.23,814,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1035,Pequeña,Retail,20126.15,3864.44,923,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1036,Mediana,Logística,26033.0,15696.54,805,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1037,Pequeña,Tecnología,94960.9,24241.12,1622,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1038,Mediana,Servicios Financieros,142042.5,9232.98,327,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1039,Pequeña,Tecnología,15273.35,18385.07,1663,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1040,Pequeña,Logística,28301.29,20599.17,166,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1041,Mediana,Retail,136994.28,3812.2,405,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1042,Grande,Manufactura,8190.06,29582.06,116,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1043,Pequeña,Logística,9845.4,44332.83,1472,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1044,Mediana,Retail,13884.08,8435.4,1252,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1045,Grande,Servicios Financieros,50219.69,30292.59,1516,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1046,Mediana,Tecnología,13153.73,33572.22,466,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1047,Pequeña,Tecnología,177220.46,21547.4,1363,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1048,Pequeña,Tecnología,34594.06,35353.78,1649,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1049,Grande,Servicios Financieros,39809.39,21125.85,1334,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1050,Pequeña,Retail,19161.84,25727.23,1376,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1051,Grande,Servicios Financieros,36834.59,1360.3,793,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1052,Mediana,Tecnología,59222.69,34894.29,731,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1053,Corporativa,Logística,74550.7,33405.79,971,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1054,Grande,Manufactura,75094.38,2881.64,181,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1055,Corporativa,Servicios Financieros,48124.6,19044.26,1355,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1056,Pequeña,Servicios Financieros,122358.09,48972.56,1331,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1057,Grande,Retail,90025.01,21616.09,1704,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1058,Pequeña,Retail,75744.59,25595.32,1741,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1059,Mediana,Servicios Financieros,7860.57,45586.58,1061,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1060,Mediana,Tecnología,5345.09,36145.83,836,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1061,Grande,Manufactura,16941.25,29521.44,264,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1062,Corporativa,Retail,59461.36,40092.43,704,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1063,Grande,Tecnología,31483.22,43353.95,590,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1064,Pequeña,Logística,30742.21,23387.52,1355,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1065,Pequeña,Retail,112961.87,24280.31,67,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1066,Mediana,Tecnología,117958.49,19916.5,1189,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1067,Pequeña,Tecnología,124941.18,48368.6,851,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1068,Pequeña,Manufactura,23835.0,35161.15,450,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1069,Pequeña,Manufactura,63729.73,5077.93,1272,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1070,Pequeña,Logística,20847.52,43285.02,377,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1071,Pequeña,Tecnología,15573.71,24547.44,1599,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1072,Pequeña,Tecnología,15205.81,4368.94,1132,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1073,Pequeña,Manufactura,25935.7,27936.15,777,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1074,Pequeña,Retail,33102.23,21441.05,302,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1075,Corporativa,Retail,93877.79,44009.72,1214,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1076,Pequeña,Servicios Financieros,11385.48,10995.74,1740,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1077,Pequeña,Manufactura,71387.28,41496.77,337,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1078,Mediana,Servicios Financieros,42906.15,28326.75,1427,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1079,Pequeña,Manufactura,21980.03,3675.9,1005,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1080,Corporativa,Logística,38944.42,48620.42,762,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1081,Grande,Tecnología,22829.61,26118.15,1062,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1082,Pequeña,Logística,50327.16,15252.97,473,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1083,Pequeña,Manufactura,33444.27,24000.94,1166,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1084,Grande,Tecnología,13980.59,43035.03,1258,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1085,Corporativa,Retail,11197.9,15940.25,434,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1086,Mediana,Retail,44559.58,10441.14,1751,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1087,Mediana,Servicios Financieros,121350.57,7324.49,882,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1088,Pequeña,Manufactura,26076.5,15595.11,1250,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1089,Corporativa,Manufactura,71025.35,39222.36,807,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1090,Pequeña,Retail,58744.01,24109.69,144,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1091,Corporativa,Logística,139086.18,12146.6,1174,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1092,Mediana,Tecnología,91013.17,9143.06,1706,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1093,Mediana,Logística,46805.32,17303.74,94,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1094,Mediana,Logística,58505.69,47056.29,1329,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1095,Pequeña,Retail,119328.93,17808.31,854,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1096,Pequeña,Retail,30501.2,49418.08,268,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1097,Pequeña,Retail,24785.25,24776.29,331,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1098,Pequeña,Servicios Financieros,5543.5,9779.03,1445,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1099,Grande,Logística,92593.6,44665.86,1575,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1100,Pequeña,Manufactura,85717.67,23557.41,998,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1101,Pequeña,Tecnología,10516.11,35773.9,398,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1102,Corporativa,Servicios Financieros,48002.3,49201.87,262,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1103,Grande,Manufactura,36179.35,3458.59,224,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1104,Corporativa,Logística,11318.38,5738.03,936,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1105,Corporativa,Retail,202042.29,36302.38,1065,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1106,Pequeña,Logística,17084.21,14809.43,950,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1107,Pequeña,Tecnología,8480.06,10030.77,718,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1108,Grande,Servicios Financieros,50174.57,2928.73,206,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1109,Mediana,Servicios Financieros,72136.21,2070.49,246,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1110,Pequeña,Tecnología,6649.07,38949.79,1064,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1111,Grande,Manufactura,58752.26,7587.24,1499,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1112,Pequeña,Manufactura,42995.54,23918.31,659,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1113,Pequeña,Servicios Financieros,10449.74,30688.94,193,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1114,Mediana,Servicios Financieros,14468.75,21989.24,1604,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1115,Mediana,Retail,46963.51,2328.23,82,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1116,Mediana,Manufactura,22574.25,39391.57,247,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1117,Pequeña,Tecnología,144286.32,1515.15,1771,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1118,Grande,Manufactura,90391.2,38332.6,1028,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1119,Pequeña,Retail,210423.82,44771.92,853,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1120,Pequeña,Servicios Financieros,20033.02,22209.16,1413,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1121,Grande,Servicios Financieros,179869.39,27241.58,414,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1122,Corporativa,Retail,33214.3,24372.19,85,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1123,Grande,Tecnología,26348.65,20071.22,147,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1124,Grande,Servicios Financieros,7583.06,44483.8,929,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1125,Mediana,Logística,7710.42,44802.74,1306,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1126,Mediana,Servicios Financieros,63884.6,17455.0,827,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1127,Pequeña,Logística,35617.91,31138.42,809,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1128,Pequeña,Retail,17842.88,46418.47,1045,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1129,Pequeña,Retail,52592.05,48140.87,832,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1130,Pequeña,Servicios Financieros,19575.01,25938.99,874,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1131,Mediana,Manufactura,48093.89,23188.42,1233,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1132,Mediana,Logística,27252.58,14656.02,1468,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1133,Pequeña,Tecnología,91736.52,47984.72,1288,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1134,Pequeña,Servicios Financieros,90933.67,7997.9,884,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1135,Mediana,Tecnología,37442.2,29411.65,737,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1136,Pequeña,Servicios Financieros,26602.19,14844.96,1133,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1137,Grande,Manufactura,27514.74,14671.41,1700,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1138,Mediana,Manufactura,86921.33,20843.46,51,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1139,Mediana,Manufactura,24888.2,49940.85,1530,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1140,Mediana,Manufactura,16726.62,3693.35,872,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1141,Grande,Retail,9424.53,29348.55,1493,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1142,Pequeña,Retail,36432.91,5046.04,1790,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1143,Mediana,Logística,37901.75,8571.52,1623,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1144,Mediana,Tecnología,96913.85,22538.58,1146,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1145,Pequeña,Servicios Financieros,17502.53,26012.55,221,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1146,Grande,Servicios Financieros,28981.8,13680.83,1048,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1147,Grande,Retail,87618.77,16506.4,1156,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1148,Mediana,Servicios Financieros,91756.75,5261.38,425,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1149,Grande,Retail,29275.04,15857.77,1060,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1150,Grande,Logística,35728.26,48361.36,669,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1151,Mediana,Tecnología,23069.01,47290.66,1048,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1152,Grande,Logística,139822.05,17409.04,596,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1153,Mediana,Manufactura,11314.67,28971.84,260,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1154,Mediana,Manufactura,140715.56,45570.17,903,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1155,Mediana,Manufactura,62579.53,1303.01,603,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1156,Grande,Logística,42918.66,40723.49,269,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1157,Pequeña,Servicios Financieros,6660.21,47470.11,119,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1158,Grande,Tecnología,37274.66,5474.96,261,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1159,Grande,Manufactura,31191.16,8910.94,486,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1160,Pequeña,Manufactura,13790.27,48076.57,262,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1161,Grande,Manufactura,58415.25,27339.47,383,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1162,Pequeña,Tecnología,182283.84,1695.64,1034,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1163,Pequeña,Manufactura,46298.38,13623.97,1386,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1164,Mediana,Tecnología,67720.04,23047.24,468,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1165,Pequeña,Manufactura,8545.29,34952.54,1428,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1166,Grande,Logística,32035.64,36924.86,1345,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1167,Grande,Logística,11185.19,49775.65,374,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1168,Mediana,Tecnología,52440.16,15088.05,693,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1169,Pequeña,Logística,144421.4,27372.78,1481,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1170,Pequeña,Tecnología,59202.6,27132.85,686,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1171,Mediana,Logística,8995.63,20876.62,159,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1172,Corporativa,Logística,26899.38,9288.93,170,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1173,Mediana,Tecnología,44999.15,48895.37,444,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1174,Pequeña,Servicios Financieros,30809.31,42812.54,1146,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1175,Mediana,Logística,94681.26,25418.32,655,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1176,Mediana,Manufactura,89281.13,30559.03,313,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1177,Grande,Servicios Financieros,52315.73,12135.79,1708,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1178,Pequeña,Tecnología,28376.97,27645.57,252,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1179,Grande,Servicios Financieros,19741.13,35053.54,773,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1180,Mediana,Retail,10595.45,26243.18,492,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1181,Corporativa,Retail,26917.32,49523.97,1598,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1182,Pequeña,Logística,31651.22,30955.74,1329,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1183,Mediana,Logística,61323.27,19177.71,1735,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1184,Corporativa,Manufactura,58670.6,38835.45,1193,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1185,Pequeña,Servicios Financieros,8634.35,9352.66,386,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1186,Corporativa,Retail,30147.78,19841.27,1766,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1187,Mediana,Logística,15031.13,18000.99,1076,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1188,Pequeña,Servicios Financieros,13528.31,22158.55,1789,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1189,Pequeña,Logística,92810.59,39307.21,1323,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1190,Mediana,Logística,7140.95,24724.48,888,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1191,Pequeña,Retail,32165.97,39906.71,694,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1192,Mediana,Retail,14208.38,29247.96,1386,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1193,Pequeña,Logística,110734.88,17761.4,1044,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1194,Mediana,Tecnología,45713.85,40688.96,114,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1195,Pequeña,Logística,18157.97,12676.19,650,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1196,Grande,Logística,39900.68,11994.77,1084,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1197,Corporativa,Manufactura,70742.68,25720.64,1794,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1198,Corporativa,Manufactura,163644.97,13781.61,269,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1199,Mediana,Manufactura,17451.67,1445.26,392,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1200,Pequeña,Tecnología,113657.63,32766.58,851,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1201,Grande,Tecnología,141135.95,26043.6,1442,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1202,Pequeña,Logística,129097.88,22830.37,1706,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1203,Pequeña,Manufactura,55449.69,48381.46,697,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1204,Pequeña,Tecnología,54688.38,28988.76,1352,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1205,Mediana,Retail,30809.55,43308.15,1424,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1206,Grande,Logística,74796.61,7833.06,128,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1207,Mediana,Servicios Financieros,42888.98,28891.12,76,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1208,Pequeña,Logística,61573.01,43531.0,868,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1209,Pequeña,Servicios Financieros,32970.86,29572.18,451,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1210,Corporativa,Manufactura,70744.56,36182.69,1533,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1211,Pequeña,Servicios Financieros,91997.7,19230.13,1632,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1212,Mediana,Manufactura,12916.75,5530.03,91,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1213,Pequeña,Retail,94467.03,23437.11,1162,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1214,Grande,Servicios Financieros,43858.68,20329.49,1732,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1215,Mediana,Logística,98108.85,43485.95,1602,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1216,Pequeña,Manufactura,33220.26,12955.77,1172,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1217,Pequeña,Logística,28824.47,48369.98,1039,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1218,Mediana,Tecnología,128290.94,47948.77,627,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1219,Mediana,Manufactura,19462.12,13133.95,1435,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1220,Pequeña,Servicios Financieros,97963.06,18054.55,421,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1221,Corporativa,Manufactura,38084.42,44882.23,1006,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1222,Pequeña,Logística,41087.15,48364.49,1105,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1223,Pequeña,Retail,23442.31,22728.52,632,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1224,Corporativa,Manufactura,47553.51,16728.86,1342,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1225,Pequeña,Servicios Financieros,24667.78,26778.61,366,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1226,Mediana,Tecnología,7003.06,34700.69,839,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1227,Pequeña,Retail,20872.62,14400.25,1257,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1228,Pequeña,Tecnología,5319.97,37087.19,1291,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1229,Corporativa,Manufactura,196648.55,3531.21,1435,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1230,Pequeña,Logística,173699.36,3415.43,1720,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1231,Grande,Logística,30139.18,19928.1,781,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1232,Pequeña,Servicios Financieros,70165.88,18320.19,1189,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1233,Pequeña,Logística,26217.57,16466.03,1460,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1234,Pequeña,Retail,60599.04,25059.97,1561,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1235,Mediana,Logística,86848.18,16715.95,1415,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1236,Pequeña,Servicios Financieros,151643.74,10420.64,1434,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1237,Grande,Manufactura,30558.97,16164.01,910,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1238,Mediana,Manufactura,81461.6,48770.31,1629,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1239,Corporativa,Logística,20457.44,21144.56,664,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1240,Pequeña,Tecnología,236948.26,22790.93,283,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1241,Grande,Manufactura,6305.37,29250.7,1530,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1242,Grande,Logística,51257.59,49183.7,1167,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1243,Grande,Servicios Financieros,58867.89,12838.46,49,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1244,Grande,Logística,63244.91,34382.82,557,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1245,Grande,Manufactura,11413.69,36083.25,1198,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1246,Mediana,Servicios Financieros,144460.13,30758.9,1261,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1247,Pequeña,Logística,14994.75,5340.34,1584,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1248,Pequeña,Retail,53742.81,34166.74,405,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1249,Corporativa,Servicios Financieros,17594.91,4140.64,1557,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1250,Mediana,Retail,23351.88,30210.99,195,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1251,Grande,Tecnología,44533.43,37239.48,1603,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1252,Mediana,Servicios Financieros,31995.0,11337.52,1234,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1253,Pequeña,Retail,13731.1,42239.48,890,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1254,Pequeña,Manufactura,14372.92,2487.34,646,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1255,Mediana,Manufactura,32076.68,42346.83,641,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1256,Pequeña,Tecnología,75792.95,23556.12,1655,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1257,Pequeña,Servicios Financieros,119121.8,11661.81,1497,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1258,Mediana,Servicios Financieros,9393.91,7555.13,1385,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1259,Pequeña,Servicios Financieros,29969.88,47712.05,532,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1260,Mediana,Tecnología,10281.67,4560.61,942,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1261,Pequeña,Servicios Financieros,5836.58,10755.58,108,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1262,Grande,Manufactura,59193.87,18043.3,614,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1263,Pequeña,Retail,51121.66,31391.51,717,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1264,Mediana,Manufactura,13897.7,27695.25,425,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1265,Pequeña,Manufactura,18316.44,7156.53,1661,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1266,Pequeña,Retail,6199.67,15196.67,1156,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1267,Pequeña,Manufactura,95074.49,12698.84,431,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1268,Mediana,Tecnología,188828.96,11463.6,1004,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1269,Mediana,Retail,12277.86,21146.07,253,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1270,Pequeña,Manufactura,18164.12,35497.54,547,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1271,Mediana,Logística,106403.03,11655.19,663,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1272,Grande,Manufactura,135498.87,18967.27,265,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1273,Grande,Tecnología,32204.25,20154.95,1480,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1274,Pequeña,Servicios Financieros,7597.44,48846.37,145,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1275,Mediana,Manufactura,7009.43,47778.65,1216,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1276,Pequeña,Servicios Financieros,47659.91,40206.74,255,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1277,Pequeña,Logística,29952.69,12841.29,259,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1278,Corporativa,Manufactura,6453.55,4333.83,211,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1279,Pequeña,Retail,48763.72,16528.3,1302,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1280,Mediana,Servicios Financieros,5568.34,14072.93,1371,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1281,Mediana,Logística,82410.55,25790.36,239,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1282,Mediana,Retail,23295.36,39108.67,1709,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1283,Mediana,Retail,7054.54,43057.82,1445,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1284,Pequeña,Retail,49379.36,42398.34,125,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1285,Pequeña,Retail,30348.69,18624.1,923,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1286,Mediana,Manufactura,187100.58,34674.48,785,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1287,Pequeña,Manufactura,44284.91,16328.88,1139,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1288,Pequeña,Manufactura,21095.68,3984.37,444,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1289,Pequeña,Logística,66797.06,35376.7,423,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1290,Pequeña,Logística,20837.83,1481.55,725,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1291,Pequeña,Logística,122297.23,21049.95,1686,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1292,Pequeña,Tecnología,28477.94,17139.58,873,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1293,Mediana,Logística,44910.78,34975.5,1554,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1294,Mediana,Manufactura,7594.84,38546.03,633,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1295,Grande,Manufactura,32766.86,15900.64,611,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1296,Pequeña,Tecnología,94297.88,40769.72,162,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1297,Pequeña,Tecnología,86904.42,15401.92,820,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1298,Pequeña,Logística,17700.67,22869.99,678,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1299,Mediana,Servicios Financieros,17814.28,36623.91,1367,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1300,Mediana,Tecnología,89996.94,34953.09,1752,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1301,Pequeña,Retail,138248.4,49381.06,250,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1302,Corporativa,Manufactura,10010.96,12032.89,1005,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1303,Pequeña,Retail,34897.18,33453.58,1491,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1304,Mediana,Manufactura,25583.29,30874.41,1099,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1305,Mediana,Manufactura,107276.54,45839.82,1245,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1306,Grande,Tecnología,9361.02,8661.74,1573,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1307,Mediana,Tecnología,16857.43,37838.11,1432,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1308,Grande,Retail,74810.84,28845.16,817,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1309,Pequeña,Manufactura,7632.81,14458.63,720,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1310,Grande,Retail,38916.41,24247.31,1387,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1311,Pequeña,Servicios Financieros,34179.41,17355.05,68,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1312,Grande,Retail,25353.41,29386.36,1346,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1313,Mediana,Logística,30091.01,44561.03,719,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1314,Grande,Retail,42744.81,28895.94,191,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1315,Mediana,Logística,13799.13,31954.4,1384,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1316,Mediana,Logística,47431.12,26418.64,1157,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1317,Mediana,Logística,86848.76,3507.11,190,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1318,Mediana,Servicios Financieros,76389.36,12410.07,1688,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1319,Pequeña,Retail,13355.88,25108.08,1107,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1320,Pequeña,Retail,13081.82,16201.53,1087,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1321,Pequeña,Servicios Financieros,20610.65,9906.42,271,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1322,Pequeña,Manufactura,27398.39,25702.51,996,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1323,Grande,Tecnología,31250.93,16817.68,919,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1324,Pequeña,Retail,61924.43,13647.27,142,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1325,Corporativa,Tecnología,7917.51,23735.29,1043,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1326,Pequeña,Servicios Financieros,6764.4,7530.93,347,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1327,Pequeña,Manufactura,29871.67,46459.54,52,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1328,Grande,Manufactura,64728.14,43517.4,1611,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1329,Mediana,Manufactura,15748.56,35673.41,853,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1330,Mediana,Servicios Financieros,56291.96,6204.48,1700,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1331,Mediana,Logística,20043.64,39017.99,1171,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1332,Mediana,Logística,113615.62,40589.91,730,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1333,Pequeña,Tecnología,118019.38,38620.47,1696,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1334,Corporativa,Logística,22640.35,6584.33,1048,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1335,Corporativa,Logística,18067.83,32551.49,1265,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1336,Mediana,Manufactura,31492.27,41881.91,1471,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1337,Pequeña,Manufactura,18756.83,29290.32,1166,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1338,Mediana,Tecnología,60795.63,32673.96,1097,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1339,Pequeña,Retail,92453.59,23459.81,157,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1340,Pequeña,Tecnología,60903.84,26906.66,905,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1341,Pequeña,Tecnología,91963.22,2684.47,187,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1342,Mediana,Servicios Financieros,30291.25,32309.19,856,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1343,Grande,Servicios Financieros,13498.92,4990.91,1447,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1344,Mediana,Tecnología,71961.18,22315.72,881,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1345,Mediana,Tecnología,27351.44,15340.1,541,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1346,Pequeña,Tecnología,60626.05,27725.97,74,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1347,Pequeña,Logística,20779.66,7537.4,1161,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1348,Pequeña,Servicios Financieros,9235.95,34890.53,248,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1349,Corporativa,Tecnología,250190.91,39955.57,472,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1350,Pequeña,Manufactura,13492.08,9004.37,344,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1351,Grande,Manufactura,227928.08,6111.34,206,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1352,Mediana,Logística,194225.34,8130.26,257,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1353,Pequeña,Logística,83949.83,43979.25,1756,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1354,Mediana,Retail,58855.7,26881.27,1725,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1355,Mediana,Retail,48114.64,23895.79,296,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1356,Grande,Retail,105533.68,6228.88,899,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1357,Corporativa,Logística,22085.06,32828.24,867,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1358,Pequeña,Logística,36525.64,43531.98,1432,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1359,Pequeña,Logística,53299.0,41581.11,518,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1360,Mediana,Manufactura,31482.63,31676.68,731,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1361,Corporativa,Logística,32885.94,4688.66,716,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1362,Pequeña,Manufactura,25045.13,6507.45,1343,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1363,Mediana,Retail,46532.24,3416.14,1025,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1364,Mediana,Retail,100047.88,13616.48,386,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1365,Mediana,Retail,16252.79,7647.41,1710,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1366,Pequeña,Tecnología,141234.17,13742.35,1797,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1367,Mediana,Tecnología,63412.21,19867.84,901,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1368,Corporativa,Servicios Financieros,91657.52,47206.16,233,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1369,Pequeña,Servicios Financieros,45618.01,30908.43,1266,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1370,Pequeña,Servicios Financieros,80596.67,41913.72,581,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1371,Corporativa,Tecnología,5816.65,35807.22,352,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1372,Pequeña,Tecnología,90292.05,6512.65,623,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1373,Grande,Servicios Financieros,7048.33,37060.1,210,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1374,Mediana,Servicios Financieros,115324.39,14479.85,528,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1375,Pequeña,Logística,246183.4,32316.28,1373,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1376,Grande,Servicios Financieros,22411.78,17707.14,112,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1377,Pequeña,Logística,16806.28,49885.94,332,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1378,Mediana,Manufactura,77485.86,13914.02,291,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1379,Pequeña,Tecnología,19586.27,14677.39,813,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1380,Mediana,Servicios Financieros,105332.75,46602.94,1253,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1381,Pequeña,Tecnología,10426.2,2207.58,1293,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1382,Pequeña,Tecnología,11731.18,35137.76,943,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1383,Corporativa,Tecnología,198523.8,36540.99,721,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1384,Pequeña,Manufactura,61018.19,41982.55,973,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1385,Mediana,Retail,98829.03,48747.53,712,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1386,Pequeña,Servicios Financieros,24602.48,48804.49,1348,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1387,Grande,Retail,61425.3,4198.56,1565,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1388,Pequeña,Retail,50099.9,41270.13,718,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1389,Corporativa,Retail,51209.86,32669.19,425,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1390,Mediana,Tecnología,62368.99,32719.76,1191,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1391,Pequeña,Logística,47825.58,7289.15,868,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1392,Pequeña,Tecnología,33023.77,32859.17,907,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1393,Pequeña,Tecnología,21142.86,49141.65,852,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1394,Mediana,Retail,78176.34,45679.11,1182,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1395,Pequeña,Tecnología,17826.77,22517.4,78,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1396,Grande,Retail,63940.33,2957.45,1729,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1397,Pequeña,Logística,18285.12,18752.38,818,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1398,Pequeña,Servicios Financieros,54085.5,41493.13,322,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1399,Mediana,Retail,73733.76,35373.46,1681,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1400,Mediana,Logística,17340.69,23507.84,565,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1401,Pequeña,Servicios Financieros,8090.75,3699.98,340,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1402,Pequeña,Manufactura,12019.1,21917.84,566,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1403,Pequeña,Retail,51569.83,23982.22,668,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1404,Mediana,Retail,99671.81,46499.22,263,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1405,Mediana,Manufactura,7302.03,32413.22,1262,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1406,Mediana,Manufactura,71241.39,16270.99,634,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1407,Grande,Retail,25875.77,26740.59,123,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1408,Grande,Manufactura,37555.02,4236.71,356,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1409,Mediana,Tecnología,137154.96,48655.84,254,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1410,Grande,Servicios Financieros,25171.22,18642.94,996,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1411,Pequeña,Servicios Financieros,36305.93,24415.5,919,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1412,Pequeña,Servicios Financieros,5688.84,18408.91,40,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1413,Pequeña,Tecnología,9256.04,34443.07,1382,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1414,Pequeña,Manufactura,19960.18,33449.38,1065,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1415,Mediana,Logística,6412.37,36050.79,64,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1416,Corporativa,Manufactura,54898.81,14139.02,476,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1417,Pequeña,Retail,32791.01,16467.76,1505,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1418,Pequeña,Servicios Financieros,44719.72,7137.31,1793,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1419,Mediana,Manufactura,14597.22,33119.99,1273,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1420,Corporativa,Logística,22544.02,2950.06,470,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1421,Pequeña,Retail,59506.09,30286.43,682,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1422,Mediana,Tecnología,173054.7,43615.1,1588,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1423,Pequeña,Tecnología,7586.6,44650.78,624,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1424,Pequeña,Logística,115538.74,23002.85,258,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1425,Corporativa,Retail,48005.11,23505.88,373,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1426,Corporativa,Servicios Financieros,46496.43,4771.49,1133,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1427,Pequeña,Manufactura,39685.22,33867.49,1406,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1428,Corporativa,Retail,8595.97,41241.71,1449,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1429,Mediana,Tecnología,9708.77,12988.1,1343,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1430,Grande,Logística,50928.67,21643.74,1508,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1431,Mediana,Logística,25848.44,42103.13,1724,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1432,Mediana,Manufactura,129607.48,43978.9,1018,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1433,Mediana,Logística,31093.53,12915.82,1181,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1434,Mediana,Logística,12732.29,27977.96,1755,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1435,Pequeña,Retail,67714.0,10432.16,938,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1436,Pequeña,Servicios Financieros,22361.23,5992.06,1596,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1437,Pequeña,Manufactura,42271.55,45644.9,1412,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1438,Mediana,Retail,64838.74,41204.87,556,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1439,Pequeña,Servicios Financieros,120261.48,38241.71,1366,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1440,Mediana,Retail,83556.84,3389.55,104,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1441,Corporativa,Retail,61406.34,42342.71,1599,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1442,Pequeña,Logística,61914.43,22464.16,225,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1443,Mediana,Servicios Financieros,150868.84,17777.36,58,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1444,Pequeña,Manufactura,22536.35,27777.34,735,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1445,Grande,Manufactura,5055.64,5476.31,1050,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1446,Pequeña,Servicios Financieros,20869.59,38075.68,45,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1447,Mediana,Logística,17288.08,29539.32,1476,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1448,Grande,Tecnología,59211.01,10142.91,1642,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1449,Corporativa,Retail,55216.71,10223.38,834,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1450,Mediana,Logística,50003.82,10028.18,1646,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1451,Mediana,Servicios Financieros,5818.84,3793.12,1458,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1452,Mediana,Retail,70240.89,29802.12,969,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1453,Grande,Manufactura,24543.39,42177.06,1689,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1454,Mediana,Tecnología,59689.59,1857.41,1584,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1455,Pequeña,Manufactura,45661.72,3401.23,996,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1456,Corporativa,Servicios Financieros,25983.09,29065.74,1667,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1457,Mediana,Retail,12226.8,41155.29,1130,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1458,Mediana,Servicios Financieros,9958.92,17010.21,258,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1459,Pequeña,Retail,94046.42,18131.11,991,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1460,Mediana,Logística,130294.79,30220.98,1350,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1461,Pequeña,Tecnología,57460.84,14436.43,1563,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1462,Mediana,Logística,10459.17,2303.81,744,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1463,Pequeña,Logística,30710.5,37026.2,1013,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1464,Mediana,Servicios Financieros,70270.61,31656.85,602,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1465,Corporativa,Tecnología,80665.7,29457.04,1591,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1466,Pequeña,Retail,11290.56,37342.52,1636,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1467,Corporativa,Retail,5001.54,34086.31,644,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1468,Pequeña,Manufactura,67263.54,11088.22,355,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1469,Grande,Retail,27049.14,18271.57,1416,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1470,Grande,Servicios Financieros,19683.76,7179.4,1722,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1471,Mediana,Logística,5649.07,7362.99,904,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1472,Mediana,Logística,43858.99,34133.59,388,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1473,Grande,Logística,100241.06,43071.41,1759,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1474,Pequeña,Tecnología,163067.68,48173.9,353,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1475,Pequeña,Retail,46706.16,31789.01,1751,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1476,Mediana,Servicios Financieros,41124.82,10020.96,1379,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1477,Grande,Tecnología,9444.64,6176.87,1678,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1478,Grande,Manufactura,44800.3,40829.7,194,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1479,Grande,Servicios Financieros,28900.1,29359.07,1626,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1480,Pequeña,Servicios Financieros,51714.5,31295.97,1657,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1481,Grande,Servicios Financieros,29610.53,39291.64,827,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1482,Pequeña,Logística,18741.53,35460.58,484,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1483,Mediana,Servicios Financieros,9989.1,41888.45,1206,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1484,Pequeña,Retail,23910.87,3754.48,1790,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1485,Pequeña,Servicios Financieros,10081.97,37628.51,1180,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1486,Pequeña,Logística,14733.69,42691.79,222,Cuenta Corriente Básica,Cuenta Corriente Básica
+COMP_1487,Pequeña,Servicios Financieros,223450.22,15020.62,656,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1488,Mediana,Manufactura,34358.66,32381.92,559,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1489,Pequeña,Manufactura,42950.65,16393.94,1063,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1490,Pequeña,Logística,108422.52,47940.58,121,Cuenta Corriente Básica,Fideicomiso de Inversión
+COMP_1491,Pequeña,Retail,275955.38,2637.76,168,Cuenta Corriente Básica,Pasarela de Pagos B2B
+COMP_1492,Pequeña,Retail,48699.23,29409.85,510,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1493,Pequeña,Tecnología,88691.84,9158.67,478,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1494,Pequeña,Logística,24796.12,35898.79,1386,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1495,Mediana,Servicios Financieros,23245.72,9618.62,898,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1496,Mediana,Logística,30767.1,12533.78,369,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1497,Mediana,Tecnología,60814.47,25224.17,1105,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1498,Mediana,Logística,62315.34,45826.91,1760,Cuenta Corriente Básica,Financiación de Comercio Exterior
+COMP_1499,Pequeña,Logística,23934.3,11374.0,495,Cuenta Corriente Básica,Línea de Crédito Comercial
+COMP_1500,Grande,Tecnología,12147.92,8067.76,747,Cuenta Corriente Básica,Cuenta Corriente Básica
